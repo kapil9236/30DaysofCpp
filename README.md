@@ -1,4 +1,8 @@
-# -Learn-C-
+# -Learn-C++-
+Learn C++
+https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83
+
+
 introduction to structures in C++
 https://youtu.be/-IrueTrxNHA
 
