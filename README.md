@@ -4,6 +4,8 @@ Are you an absolute beginner at **C++**?<br/>
 Have no confidence to learn programming...<br/>
 <br/>*No worries! It's easy!*<br/>
 I am here to help you in learning C++ in a quicker and easier way.<br/>
+<br/>
+let's start playing with the code!<br/>
 https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83
 
 
