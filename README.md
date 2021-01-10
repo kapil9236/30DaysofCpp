@@ -1,4 +1,6 @@
 ## Learn C++
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 Hey guys!<br/>
 Are you an absolute beginner at **C++**?<br/>
 Have no confidence to learn programming...<br/>
