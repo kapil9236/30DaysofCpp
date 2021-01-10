@@ -2,11 +2,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [Overview](#overview)
-* [ Introduction to C++](# Introduction to C++)
-* [Resources](#resources)
-* [Contributing Guidelines](#contributing-guidelines)
-* [Code Of Conduct](#code-of-conduct)
-* [License](#license)
+* [Introduction to C++](#Introduction-to-C++)
+* [Basic Overview of C++](#Basic-Overview-of-C++)
+* [Learning C++ basics](#Learning-C++-basics)
+* [Pointers in C++](#Pointers-in-C++)
+* [Structures in C++](#Structures-in-C++)
 * [Reach Us](#reach-us)
 Hey guys!<br/>
 Are you an absolute beginner at **C++**?<br/>
