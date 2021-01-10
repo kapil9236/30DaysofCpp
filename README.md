@@ -8,6 +8,14 @@ I am here to help you in learning C++ in a quicker and easier way.<br/>
 let's start playing with the code!<br/>
 Always better to start with a basic overview, so here we go!<br/>
 [Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
+We will learn C++ in the following steps:-<br/>
+
+1. Introduction to C++
+2. Basic Overview of C++
+3. Learning C++ basics 
+4. Pointers in C++
+5. Structures in C++
+
 https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83
 
 
