@@ -6,6 +6,8 @@ Have no confidence to learn programming...<br/>
 I am here to help you in learning C++ in a quicker and easier way.<br/>
 <br/>
 let's start playing with the code!<br/>
+Always better to start with a basic overview, so here we go!<br/>
+[Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
 https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83
 
 
