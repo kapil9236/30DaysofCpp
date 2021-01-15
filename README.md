@@ -26,6 +26,27 @@ C++ is the most **fundamental** programming langauge. It's easy to learn,impleme
 Being an **object oreinted programming** langauge it enables us to code **efficiently and more easily**.<br/>
 So, let's learn C++ !
 
+<!-- Basic Overview of C++ -->
+## Basic Overview of C++
+Having overview of things you learning boosts your **confidence** and creates **a learning mindset**, we are also going to do the same.<br/>
+Before diving into programming, for let's look at things you will be learning here!<br/>
+<br/>
+[Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
+<br/>
+**Best way to start with w3schools** :-<br/>
+Just read all the content on website and try to understand things.<br/>
+**Don't take notes and try to go in deep.**<br/>
+We will do everthing **gradually and efficiently**.
+<br/>
+Read all the basics till functions and try to solve basic questions given on the website.<br/>
+<br/>
+You can take up to **5 Days** to learn it all however you can always go with your pace :)<br/>
+**Everything takes time and efforts and we will learn it all, in these 5 days recommended that don't try for solving complex problems!**<br/>
+
+<!-- Learning C++ basics -->
+## Learning C++ basics
+<br/>
+<br/>
 Hey guys!<br/>
 Are you an absolute beginner at **C++**?<br/>
 Have no confidence to learn programming...<br/>
@@ -34,7 +55,9 @@ I am here to help you in learning C++ in a quicker and easier way.<br/>
 <br/>
 let's start playing with the code!<br/>
 Always better to start with a basic overview, so here we go!<br/>
+<br/>
 [Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
+<br/>
 We will learn C++ in the following steps:-<br/>
 
 1. Introduction to C++
