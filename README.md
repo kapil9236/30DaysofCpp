@@ -29,7 +29,7 @@ So, let's learn C++ !
 <!-- Basic Overview of C++ -->
 ## Basic Overview of C++
 Having overview of things you learning boosts your **confidence** and creates **a learning mindset**, we are also going to do the same.<br/>
-Before diving into programming, for let's look at things you will be learning here!<br/>
+Before diving into programming, first let's look at things you will be learning here!<br/>
 <br/>
 [Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
 <br/>
