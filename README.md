@@ -47,15 +47,7 @@ You can take up to **5 Days** to learn it all however you can always go with you
 ## Learning C++ basics
 <br/>
 <br/>
-Hey guys!<br/>
-Are you an absolute beginner at **C++**?<br/>
-Have no confidence to learn programming...<br/>
-<br/>*No worries! It's easy!*<br/>
-I am here to help you in learning C++ in a quicker and easier way.<br/>
-<br/>
-let's start playing with the code!<br/>
-Always better to start with a basic overview, so here we go!<br/>
-<br/>
+
 [Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
 <br/>
 We will learn C++ in the following steps:-<br/>
