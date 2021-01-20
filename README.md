@@ -28,10 +28,12 @@ So, let's learn C++ !
 
 <!-- Basic Overview of C++ -->
 ## Basic Overview of C++
+<!-- Day 1-5 -->
+### Day 1-5
 Having overview of things you learning boosts your **confidence** and creates **a learning mindset**, we are also going to do the same.<br/>
 Before diving into programming, first let's look at things you will be learning here!<br/>
 <br/>
-[Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
+[Click on Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
 <br/>
 **Best way to start with w3schools** :-<br/>
 Just read all the content on website and try to understand things.<br/>
@@ -42,6 +44,8 @@ Read all the basics till functions and try to solve basic questions given on the
 <br/>
 You can take up to **5 Days** to learn it all however you can always go with your pace :)<br/>
 **Everything takes time and efforts and we will learn it all, in these 5 days recommended that don't try for solving complex problems!**<br/>
+<!-- Day 6 -->
+### Day 6
 
 <!-- Learning C++ basics -->
 ## Learning C++ basics
