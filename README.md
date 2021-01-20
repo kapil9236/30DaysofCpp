@@ -46,6 +46,10 @@ You can take up to **5 Days** to learn it all however you can always go with you
 **Everything takes time and efforts and we will learn it all, in these 5 days recommended that don't try for solving complex problems!**<br/>
 <!-- Day 6 -->
 ### Day 6
+Attempt the quizes given in the below link. It will a quick recap about what you learnt at 
+[W3Schools](https://www.w3schools.com/cpp/cpp_intro.asp). Whereever you feel lost, just [google](https://www.google.com/) it.<br/>
+
+[Test your knowledge here!](http://cforbeginners.com/helloworld_c++_quiz.html)<br>
 
 <!-- Learning C++ basics -->
 ## Learning C++ basics
