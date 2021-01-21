@@ -54,9 +54,15 @@ Attempt the quizes given in the below link. It will a quick recap about what you
 <!-- Learning C++ basics -->
 ## Learning C++ basics
 <!-- Install IDE -->
-### Install IDE to Code
-Before we start real learning lets install an IDE to compile and run the code. There are multiple options for an IDE, anyway we will use Dev C++ IDE that comes with versatility of coding in 30 different programming langauges.
-[download and setup Dev-C++ IDE from here](http://www.bloodshed.net/).
+### Install an IDE to Code
+Before we start real learning lets install an IDE to compile and run the code. There are multiple options for an IDE, anyway we will use Dev C++ IDE that comes with versatility of coding in 30 different programming langauges.<br/>
+[download and setup Dev-C++ IDE from here](http://www.bloodshed.net/).<br/>
+
+We will start learning topics in the below sequence:-<br/>
+* [Data Types & Type Modifiers](https://youtu.be/cnT1oW5_ePM)<br/>
+* [Input/Output in C++](https://youtu.be/7dPdMtBX1d8)
+
+
 
 <br/>
 
