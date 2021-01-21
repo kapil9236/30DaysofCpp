@@ -62,6 +62,8 @@ We will start learning topics in the below sequence:-<br/>
 * [Data Types & Type Modifiers](https://youtu.be/cnT1oW5_ePM)<br/>
 * [Input/Output in C++](https://youtu.be/7dPdMtBX1d8)
 * [if else statement in C++](https://youtu.be/cyB3HNlQyjY)
+* [Introduction to loops in C++](https://youtu.be/IlIn_D1RT7M)
+* [Break and Continue statement in C++](https://youtu.be/Stf7KBiA1vs)
 
 
 
