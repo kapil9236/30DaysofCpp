@@ -53,7 +53,14 @@ Attempt the quizes given in the below link. It will a quick recap about what you
 
 <!-- Learning C++ basics -->
 ## Learning C++ basics
+<!-- Install IDE -->
+### Install IDE to Code
+Before we start real learning lets install an IDE to compile and run the code. There are multiple options for an IDE, anyway we will use Dev C++ IDE that comes with versatility of coding in 30 different programming langauges.
+[download and setup Dev-C++ IDE from here](http://www.bloodshed.net/).
+
 <br/>
+
+
 <br/>
 
 [Introduction to C++!](https://www.w3schools.com/cpp/cpp_intro.asp)<br/>
