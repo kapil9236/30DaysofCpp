@@ -23,7 +23,7 @@ let's start with **"30 Days of Cpp"** .
 **C++** is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or **"C with Classes"**.<br/>
 **Why to learn C++?** <br/>
 C++ is the most **fundamental** programming langauge. It's easy to learn,implement, and ample amount of sources to learn it. All the possible programming codes you can find in C++.<br/>
-Being an **object oreinted programming** langauge it enables us to code **efficiently and more easily**.<br/>
+Being an **object oriented programming** langauge it enables us to code **efficiently and more easily**.<br/>
 So, let's learn C++ !
 
 <!-- Basic Overview of C++ -->
@@ -100,5 +100,5 @@ Learn Pointers
 https://youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_
 
 
-leran Markdown Langauge
+Learn Markdown Langauge
 https://guides.github.com/features/mastering-markdown/
